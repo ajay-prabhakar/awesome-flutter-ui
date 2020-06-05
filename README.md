@@ -10,7 +10,7 @@ Looking for a awesome UI examples of flutter here is a curated list of awesome F
 ## Index
 * [Login Page](https://github.com/Chromicle/awesome-flutter-ui/tree/master/awesome_login_page)
 * [Books App](https://github.com/Chromicle/awesome-flutter-ui/tree/master/book_app_ui)
-  
+* [Profile Page](https://github.com/Chromicle/awesome-flutter-ui/tree/master/profile_page)
 
 </br>
 </br>
@@ -63,8 +63,32 @@ GIF  | Screenshot
 
 
 
+</br>
+</br>
+
+### Profile Page UI
+
+An awesome flutter UI for Profile page 
+
+**Packages we are using:**
+
+- [flutter_svg](https://pub.dev/packages/flutter_svg)
+- [flutter_screenutil](https://pub.dev/packages/flutter_screenutil)
+- [line_awesome_flutter](https://pub.dev/packages/line_awesome_flutter)
+
+**Fonts**
+
+- [Poppins](https://fonts.google.com/specimen/Poppins)
+- [custom Fonts](https://flutter.dev/docs/cookbook/design/fonts)
+
+</br>
+
+GIF  | Screenshot
+------------- | -------------
+<img src="https://user-images.githubusercontent.com/48018942/82934546-4094bb80-9fa9-11ea-87e9-ed79af40d46e.gif" heigth="550" width="330"/> | <img src="https://user-images.githubusercontent.com/48018942/82934539-3d99cb00-9fa9-11ea-92b8-e52e3d2eab02.png" heigth="800" width="700"/>
+
 ### Note
 
-These examples are completely open-source any one can use theese examples for their personal projects \
+These examples are completely open-source any one can use these examples for their personal projects \
 If you like this repository please give a star :) \
 Happy Coding ^|^ 
