@@ -11,6 +11,8 @@ Looking for a awesome UI examples of flutter here is a curated list of awesome F
 * [Login Page](https://github.com/Chromicle/awesome-flutter-ui/tree/master/awesome_login_page)
 * [Books App](https://github.com/Chromicle/awesome-flutter-ui/tree/master/book_app_ui)
 * [Profile Page](https://github.com/Chromicle/awesome-flutter-ui/tree/master/profile_page)
+* [Food order app](https://github.com/Chromicle/awesome-flutter-ui/tree/master/food_order_app)
+
 
 </br>
 </br>
@@ -86,6 +88,26 @@ An awesome flutter UI for Profile page
 GIF  | Screenshot
 ------------- | -------------
 <img src="https://user-images.githubusercontent.com/48018942/82934546-4094bb80-9fa9-11ea-87e9-ed79af40d46e.gif" heigth="550" width="330"/> | <img src="https://user-images.githubusercontent.com/48018942/82934539-3d99cb00-9fa9-11ea-92b8-e52e3d2eab02.png" heigth="800" width="700"/>
+
+
+### Food Order app
+
+An awesome flutter UI for Food order app 
+
+**Packages we are using:**
+
+- [flutter_svg](https://pub.dev/packages/flutter_svg)
+- [line_awesome_flutter](https://pub.dev/packages/line_awesome_flutter)
+
+**Fonts**
+
+Normal Font 
+
+</br>
+
+GIF  | Screenshot
+------------- | -------------
+<img src="https://user-images.githubusercontent.com/48018942/83925032-c1229b80-a7a3-11ea-99bd-f2df6169d556.gif" heigth="550" width="330"/> | <img src="https://user-images.githubusercontent.com/48018942/83925036-c4b62280-a7a3-11ea-9139-1415ddc57c20.png" heigth="800" width="700"/>
 
 ### Note
 
