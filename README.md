@@ -1,4 +1,4 @@
-List of Flutter UI/UX Examples
+List of Flutter UI/UX Examples  🍟 
 ==================
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/chromicle/awesome-flutter-ui)
 
@@ -15,11 +15,9 @@ Looking for a awesome UI examples of flutter here is a curated list of awesome F
 
 
 </br>
-</br>
 
 
-
-### Login Page UI
+### Login Page UI  🍦 
 
 An awesome flutter UI for Login page 
 
@@ -42,7 +40,7 @@ GIF  | Screenshot
 </br>
 </br>
 
-### Books app UI 
+### Books app UI  🍨 
 
 An awesome flutter UI for Books app 
 
@@ -68,7 +66,7 @@ GIF  | Screenshot
 </br>
 </br>
 
-### Profile Page UI
+### Profile Page UI  🍧 
 
 An awesome flutter UI for Profile page 
 
@@ -90,7 +88,7 @@ GIF  | Screenshot
 <img src="https://user-images.githubusercontent.com/48018942/82934546-4094bb80-9fa9-11ea-87e9-ed79af40d46e.gif" heigth="550" width="330"/> | <img src="https://user-images.githubusercontent.com/48018942/82934539-3d99cb00-9fa9-11ea-92b8-e52e3d2eab02.png" heigth="800" width="700"/>
 
 
-### Food Order app
+### Food Order app  🎂 
 
 An awesome flutter UI for Food order app 
 
