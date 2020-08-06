@@ -4,14 +4,15 @@ List of Flutter UI/UX Examples  🍟
 
 Looking for a awesome UI examples of flutter here is a curated list of awesome Flutter UI/UX Examples.
 
-## Author
+## Author ✍️
 [![Ajay Prabhakar](https://avatars3.githubusercontent.com/u/48018942?v=3&s=32) chromicle](https://github.com/chromicle) 
 
-## Index
+## Index 📝 
 * [Login Page](https://github.com/Chromicle/awesome-flutter-ui/tree/master/awesome_login_page)
 * [Books App](https://github.com/Chromicle/awesome-flutter-ui/tree/master/book_app_ui)
 * [Profile Page](https://github.com/Chromicle/awesome-flutter-ui/tree/master/profile_page)
 * [Food order app](https://github.com/Chromicle/awesome-flutter-ui/tree/master/food_order_app)
+* [Walkthrough Screen](https://github.com/Chromicle/awesome-flutter-ui/tree/master/walkthrough_screen)
 
 
 </br>
@@ -106,6 +107,29 @@ Normal Font
 GIF  | Screenshot
 ------------- | -------------
 <img src="https://user-images.githubusercontent.com/48018942/83925032-c1229b80-a7a3-11ea-99bd-f2df6169d556.gif" heigth="550" width="330"/> | <img src="https://user-images.githubusercontent.com/48018942/83925036-c4b62280-a7a3-11ea-9139-1415ddc57c20.png" heigth="800" width="700"/>
+
+</br>
+
+### Walkthrough Screen 🎂 
+
+This is somewhat special guess what I did this in kotlin😱\
+This is the walkthrough screen you can adopt this according your use by changing images and number of screens and the top slider is adaptive it will scroll on amount of screen you changed to new screen  
+
+**Resources:**
+
+- Animations: cubic briezer
+- Primary color: #6C63FF
+- Images: [undraw.co](https://undraw.co/) 
+
+**Fonts**
+
+Poppins 
+
+</br>
+
+GIF  | Screenshot
+------------- | -------------
+<img src="https://user-images.githubusercontent.com/48018942/89576856-77127080-d84d-11ea-913b-db576702c199.gif" heigth="550" width="330"/> | <img src="https://user-images.githubusercontent.com/48018942/89576865-7aa5f780-d84d-11ea-8d3b-c9f238c372a7.png" heigth="800" width="700"/>
 
 ### Note
 
