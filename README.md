@@ -1,7 +1,7 @@
 
 Flutter UI/UX Examples  🍟 
 ==================
-[![Repo](https://img.shields.io/badge/-Awesome-181717?style=flat-square&logo=github)](https://github.com/Chromicle/awesome-flutter-ui) [![Flutter](https://img.shields.io/badge/-Flutter-46d1fd?style=flat-square&logo=flutter)](https://flutter.dev/) [![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin)](https://kotlinlang.org/)  [![Kotlin](https://img.shields.io/badge/-pub.dev-0175C2?style=flat-square&logo=dart)](https://pub.dev/)  
+[![Repo](https://img.shields.io/badge/-Awesome-181717?style=flat-square&logo=github)](https://github.com/Chromicle/awesome-flutter-ui) [![Flutter](https://img.shields.io/badge/-Flutter-46d1fd?style=flat-square&logo=flutter)](https://flutter.dev/)
 
 Looking for an awesome UI kit for Flutter?
 Here is a curated list of a few awesome Flutter UI/UX Examples.
@@ -41,7 +41,7 @@ GIF  | Screenshot
 ------------- | -------------
 <img src="https://user-images.githubusercontent.com/48018942/82415000-80cdd880-9a95-11ea-8e5c-65da78a18fbd.gif" heigth="550" width="330"/> | <img src="https://user-images.githubusercontent.com/48018942/82413366-d359c580-9a92-11ea-9e1d-13474ac6c3aa.png" heigth="800" width="700"/>
 
-**Packages we are using:**
+**Packages in use:**
 1. [flutter_svg](https://pub.dev/packages/flutter_svg)
 2. [flutter_staggered_grid_view](https://pub.dev/packages/flutter_staggered_grid_view)
 
@@ -53,8 +53,9 @@ GIF  | Screenshot
 GIF  | Screenshot
 ------------- | -------------
 <img src="https://user-images.githubusercontent.com/48018942/82934546-4094bb80-9fa9-11ea-87e9-ed79af40d46e.gif" heigth="550" width="330"/> | <img src="https://user-images.githubusercontent.com/48018942/82934539-3d99cb00-9fa9-11ea-92b8-e52e3d2eab02.png" heigth="800" width="700"/>
+</br>
 
-**Packages we are using:**
+**Packages in use:**
 
 1. [flutter_svg](https://pub.dev/packages/flutter_svg)
 2. [flutter_screenutil](https://pub.dev/packages/flutter_screenutil)
@@ -70,7 +71,9 @@ GIF  | Screenshot
 GIF  | Screenshot
 ------------- | -------------
 <img src="https://user-images.githubusercontent.com/48018942/83925032-c1229b80-a7a3-11ea-99bd-f2df6169d556.gif" heigth="550" width="330"/> | <img src="https://user-images.githubusercontent.com/48018942/83925036-c4b62280-a7a3-11ea-9139-1415ddc57c20.png" heigth="800" width="700"/>
-**Packages we are using:**
+</br>
+
+**Packages in use:**
 
 1. [flutter_svg](https://pub.dev/packages/flutter_svg)
 2. [line_awesome_flutter](https://pub.dev/packages/line_awesome_flutter)
@@ -78,13 +81,14 @@ GIF  | Screenshot
 
 ### 5. Walkthrough Screen 🎂 
 
-This is a little special... Guess what?
-*I implemented this in Kotlin!* 😱
+This is a little special... Guess what?\
+*I implemented this in Kotlin!* 😱\
 This is the walk-through screen, that you can adapt according to  your use, by changing images and number of screens. The top slider will scroll on any amount of screens you add!
 
 GIF  | Screenshot
 ------------- | -------------
 <img src="https://user-images.githubusercontent.com/48018942/89576856-77127080-d84d-11ea-913b-db576702c199.gif" heigth="550" width="330"/> | <img src="https://user-images.githubusercontent.com/48018942/89576865-7aa5f780-d84d-11ea-8d3b-c9f238c372a7.png" heigth="800" width="700"/>
+
 **Resources:**
 
 1. Animations: cubic briezer
