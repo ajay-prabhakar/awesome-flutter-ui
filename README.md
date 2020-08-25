@@ -102,6 +102,6 @@ GIF  | Screenshot
 
 ### Note
 
-These examples are completely open-source any one can use these examples for their personal projects \
-If you like this repository please give a star :) \
+These examples are completely open-source. Any one can use these examples for their personal projects. \
+If you like this repository, please give a star! :) \
 Happy Coding ^|^
