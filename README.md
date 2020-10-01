@@ -104,8 +104,17 @@ GIF  | Screenshot
 ## Author(s) ✍️
 1. [![Ajay Prabhakar](https://avatars3.githubusercontent.com/u/48018942?v=3&s=32) @chromicle ](https://github.com/chromicle) 
 
+### Looking to contribute? :computer:
+Please read [CONTRIBUTING.md][contributor-guide] before writing a pull request. Any and all help we can get is welcome :)
+
+### License :memo:
+This repository is licensed under MIT License. Find [LICENSE][license] to know more.
+
 ### Note
 
 These examples are completely open-source. Any one can use these examples for their personal projects. \
 If you like this repository, please give a star! :) \
 Happy Coding ^|^
+
+[contributor-guide]: CONTRIBUTING.md
+[license]: LICENSE
