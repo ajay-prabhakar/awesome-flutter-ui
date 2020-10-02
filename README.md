@@ -105,7 +105,7 @@ GIF  | Screenshot
 1. [![Ajay Prabhakar](https://avatars3.githubusercontent.com/u/48018942?v=3&s=32) @chromicle ](https://github.com/chromicle) 
 
 ### Looking to contribute? :computer:
-Please read [CONTRIBUTING.md][contributor-guide] before writing a pull request. Any and all help we can get is welcome :)
+Please read [CONTRIBUTING.md][contributor-guide] before making a pull request. Any and all help we can get is welcome :)
 
 ### License :memo:
 This repository is licensed under MIT License. Find [LICENSE][license] to know more.
