@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/48018942/95118684-56d93200-0768-11eb-861b-86e38bd5dc4b.png" height="200" width="450" />
+
 
 Flutter UI/UX Examples  🍟 
 ==================
@@ -99,9 +101,42 @@ GIF  | Screenshot
 
 1. Poppins 
 
+
+</br>
+
+# Widgets :rocket:
+
+List of well-designed widgets that you will actually need and find useful rather than overwhelming you with a plethora of low-quality ones.
+
+## Index 📝 
+
+ 1. [Rounded input field](https://github.com/Chromicle/awesome-flutter-ui/blob/master/widgets/rounded_input_field.dart)
+ 
+</br>
+
+### 1.  Rounded Input field 🍦 
+**GIF** \
+<img src="https://user-images.githubusercontent.com/48018942/95119656-ec28f600-0769-11eb-8d29-d5d3e54a7aac.gif" height="250" width="450" />
+
+
+**Use**
+```dart
+RoundedInputField(
+    textEditingController: controllerName,
+    hintText: "Your Email",
+    icon: Icons.email,
+    cursorColor: Colors.black,
+    editTextBackgroundColor: Colors.grey[200],
+    iconColor: Colors.black,
+    onChanged: (value) {
+      name = value;
+     },
+ )
+ ```
 ---
 
-## Author(s) ✍️
+
+### Author(s) ✍️
 1. [![Ajay Prabhakar](https://avatars3.githubusercontent.com/u/48018942?v=3&s=32) @chromicle ](https://github.com/chromicle) 
 
 ### Looking to contribute? :computer:
@@ -112,9 +147,9 @@ This repository is licensed under MIT License. Find [LICENSE][license] to know m
 
 ### Note
 
-These examples are completely open-source. Any one can use these examples for their personal projects. \
-If you like this repository, please give a star! :) \
-Happy Coding ^|^
+These examples are open to all kinds of contribution in all of its categories. **dude, they are completely free**😜 \
+If you found this project useful, then please consider giving it a :star: on Github and sharing it with your friends via social media⚡. \
+Happy Coding 💻.
 
 [contributor-guide]: CONTRIBUTING.md
 [license]: LICENSE
