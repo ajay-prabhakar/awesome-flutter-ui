@@ -111,6 +111,7 @@ List of well-designed widgets that you will actually need and find useful rather
 ## Index 📝 
 
  1. [Rounded input field](https://github.com/Chromicle/awesome-flutter-ui/blob/master/widgets/rounded_input_field.dart)
+ 2. [Flushbar alert service](https://github.com/Chromicle/awesome-flutter-ui/blob/master/widgets/alert_service.dart)
  
 </br>
 
@@ -133,6 +134,27 @@ RoundedInputField(
      },
  )
  ```
+---
+
+### 2. Flushbar alert service 
+
+To use this widget you have to include one denpendency called [flushbar](https://pub.dev/packages/flushbar) in your `pubspec.yaml`, if you want error alert you have to give `AlertType.error` in type feild same applies to warning \
+**GIF** \
+<img src="https://user-images.githubusercontent.com/48018942/95247709-d54ed600-0833-11eb-92ab-42615c09a352.gif" height="150" width="500" />
+
+**Use**
+```dart
+CustomButton(
+    text: "Add to Cart",
+    onPressed: () {
+      AlertService().showAlert(
+         context: context,
+         message: 'product has been added to cart',
+         type: AlertType.success,
+         );
+     },
+ )
+```
 ---
 
 
