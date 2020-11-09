@@ -5,8 +5,11 @@ Flutter UI/UX Examples  🍟
 ==================
 [![Repo](https://img.shields.io/badge/-Awesome-181717?style=flat-square&logo=github)](https://github.com/Chromicle/awesome-flutter-ui) [![Flutter](https://img.shields.io/badge/-Flutter-46d1fd?style=flat-square&logo=flutter)](https://flutter.dev/)
 
-Looking for an awesome UI kit for Flutter?
+Looking for an awesome UI kit for Flutter? 
 Here is a curated list of a few awesome Flutter UI/UX Examples.
+
+
+**Show some ❤️ and star the repo to support the project**
 
 ## Index 📝 
 
@@ -155,8 +158,27 @@ CustomButton(
      },
  )
 ```
----
 
+
+</br>
+
+## Designs 🌸
+These are the list of designs made by adobe xd and figma etc
+
+### Index 📝 
+
+ 1. [Camera UI](https://github.com/Chromicle/awesome-flutter-ui/blob/master/designs/camera%20UI.xd)
+ 2. [Doremon](https://github.com/Chromicle/awesome-flutter-ui/blob/master/designs/doremon.xd)
+ 
+
+### Camera UI 📷
+![Camera UI](https://user-images.githubusercontent.com/48018942/98547824-bf16b880-22be-11eb-8f64-3726013243ea.jpg)
+
+### Doremon 🐱
+Any doremon fans here? For relaxation I design some of cartoons 
+
+<img src="https://user-images.githubusercontent.com/48018942/98547830-c047e580-22be-11eb-9d8d-1f1a8674fdc7.png" heigth="400" width="400"/>
+Thanks for coming here from doremon :xD
 
 ### Author(s) ✍️
 1. [![Ajay Prabhakar](https://avatars3.githubusercontent.com/u/48018942?v=3&s=32) @chromicle ](https://github.com/chromicle) 
