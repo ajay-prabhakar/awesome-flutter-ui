@@ -168,17 +168,25 @@ These are the list of designs made by adobe xd and figma etc
 ### Index 📝 
 
  1. [Camera UI](https://github.com/Chromicle/awesome-flutter-ui/blob/master/designs/camera%20UI.xd)
- 2. [Doremon](https://github.com/Chromicle/awesome-flutter-ui/blob/master/designs/doremon.xd)
+ 2. [Notes UI](https://github.com/Chromicle/awesome-flutter-ui/blob/master/designs/notes.xd)
+ 3. [Doremon](https://github.com/Chromicle/awesome-flutter-ui/blob/master/designs/doremon.xd)
+
  
 
 ### Camera UI 📷
 ![Camera UI](https://user-images.githubusercontent.com/48018942/98547824-bf16b880-22be-11eb-8f64-3726013243ea.jpg)
+
+
+### Notes UI 📝
+<img src="https://user-images.githubusercontent.com/48018942/99701836-ff461a00-2aba-11eb-8e87-fb55f51bd590.png" width="700" height="500"/>
+
 
 ### Doremon 🐱
 Any doremon fans here? For relaxation I design some of cartoons 
 
 <img src="https://user-images.githubusercontent.com/48018942/98547830-c047e580-22be-11eb-9d8d-1f1a8674fdc7.png" heigth="400" width="400"/>
 Thanks for coming here from doremon :xD
+
 
 ### Author(s) ✍️
 1. [![Ajay Prabhakar](https://avatars3.githubusercontent.com/u/48018942?v=3&s=32) @chromicle ](https://github.com/chromicle) 
