@@ -6,7 +6,7 @@ Flutter UI/UX Examples  🍟
 [![Repo](https://img.shields.io/badge/-Awesome-181717?style=flat-square&logo=github)](https://github.com/Chromicle/awesome-flutter-ui) [![Flutter](https://img.shields.io/badge/-Flutter-46d1fd?style=flat-square&logo=flutter)](https://flutter.dev/)
 
 Looking for an awesome UI kit for Flutter? 
-Here is a curated list of a few awesome Flutter UI/UX Examples.
+Here is a curated list of a few awesome Flutter UI design templates to integrate in your Flutter app and save your time on designing widgets. You can check more UI design templates here.
 
 
 **Show some ❤️ and star the repo to support the project**
