@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/48018942/95118684-56d93200-0768-11eb-861b-86e38bd5dc4b.png" height="200" width="450" />
+<img src="https://user-images.githubusercontent.com/48018942/111353594-75464080-86ab-11eb-9379-ab07031c1e54.png" height="200" width="450" />
 
 
 Flutter UI/UX Examples  🍟 
@@ -14,10 +14,11 @@ Here is a curated list of a few awesome Flutter UI design templates to integrate
 ## Index 📝 
 
  1. [Login Page](https://github.com/Chromicle/awesome-flutter-ui/tree/master/awesome_login_page)
- 2. [Books App](https://github.com/Chromicle/awesome-flutter-ui/tree/master/book_app_ui)
- 3. [Profile Page](https://github.com/Chromicle/awesome-flutter-ui/tree/master/profile_page)
- 4. [Food order app](https://github.com/Chromicle/awesome-flutter-ui/tree/master/food_order_app)
- 5. [Walkthrough Screen](https://github.com/Chromicle/awesome-flutter-ui/tree/master/walkthrough_screen)
+ 2. [Movie Streaming App](https://github.com/Chromicle/awesome-flutter-ui/tree/master/walkthrough_screen)
+ 3. [Food order app](https://github.com/Chromicle/awesome-flutter-ui/tree/master/food_order_app)
+ 4. [Books App](https://github.com/Chromicle/awesome-flutter-ui/tree/master/book_app_ui)
+ 5. [Profile Page](https://github.com/Chromicle/awesome-flutter-ui/tree/master/profile_page)
+ 6. [Walkthrough Screen](https://github.com/Chromicle/awesome-flutter-ui/tree/master/walkthrough_screen)
 
 
 </br>
@@ -28,7 +29,7 @@ Here is a curated list of a few awesome Flutter UI design templates to integrate
 
 GIF  | Screenshot
 ------------- | -------------
-<img src="https://user-images.githubusercontent.com/48018942/81497942-8120e380-92df-11ea-8cf0-c8669ef47d9b.gif" heigth="550" width="330"/> | <img src="https://user-images.githubusercontent.com/48018942/82414710-1b79e780-9a95-11ea-9922-ddb2a6dab9e1.png" heigth="800" width="700"/>
+<img src="https://user-images.githubusercontent.com/48018942/81497942-8120e380-92df-11ea-8cf0-c8669ef47d9b.gif" heigth="400" width="250"/> | <img src="https://user-images.githubusercontent.com/48018942/111359643-c6f1c980-86b1-11eb-82b7-6daa98d55315.png" heigth="400" width="250"/>
 
 **Packages in use:**
  1. [flutter_svg](https://pub.dev/packages/flutter_svg)
@@ -38,13 +39,42 @@ GIF  | Screenshot
 
 1. [Poppins](https://fonts.google.com/specimen/Poppins)
 ---
-### 2. Books app UI  🍨 
+
+### 2. Movie Streaming App 🍨 
+
+</br>
+
+GIF  | Screenshot
+------ | -----------------
+<img src="https://user-images.githubusercontent.com/48018942/111354413-4d0b1180-86ac-11eb-93bf-3b46e31da549.gif" heigth="400" width="250"/> | <img src="https://user-images.githubusercontent.com/48018942/111359618-c0635200-86b1-11eb-8aa1-a62a20900aae.png" heigth="400" width="250"/>
+
+**Packages in use:**
+1. [flutter_svg](https://pub.dev/packages/flutter_svg)
+2. [simple_animations](https://pub.dev/packages/simple_animations)
+
+**Fonts**
+1. [Poppins](https://fonts.google.com/specimen/Nunito)
+---
+
+### 3. Food Order app  🎂 
+GIF  | Screenshot
+------------- | -------------
+<img src="https://user-images.githubusercontent.com/48018942/83925032-c1229b80-a7a3-11ea-99bd-f2df6169d556.gif" heigth="400" width="250"/> | <img src="https://user-images.githubusercontent.com/48018942/111359646-c822f680-86b1-11eb-85ae-e3b3e173c823.png" heigth="400" width="250"/>
+</br>
+
+**Packages in use:**
+
+1. [flutter_svg](https://pub.dev/packages/flutter_svg)
+2. [line_awesome_flutter](https://pub.dev/packages/line_awesome_flutter)
+---
+
+### 4. Books app UI  🍨 
 
 </br>
 
 GIF  | Screenshot
 ------------- | -------------
-<img src="https://user-images.githubusercontent.com/48018942/82415000-80cdd880-9a95-11ea-8e5c-65da78a18fbd.gif" heigth="550" width="330"/> | <img src="https://user-images.githubusercontent.com/48018942/82413366-d359c580-9a92-11ea-9e1d-13474ac6c3aa.png" heigth="800" width="700"/>
+<img src="https://user-images.githubusercontent.com/48018942/82415000-80cdd880-9a95-11ea-8e5c-65da78a18fbd.gif" heigth="400" width="250"/> | <img src="https://user-images.githubusercontent.com/48018942/111359641-c5c09c80-86b1-11eb-9f46-0f8dc1cba18c.png" heigth="400" width="250"/>
 
 **Packages in use:**
 1. [flutter_svg](https://pub.dev/packages/flutter_svg)
@@ -53,11 +83,11 @@ GIF  | Screenshot
 **Fonts**
 1. [Poppins](https://fonts.google.com/specimen/Nunito)
 ---
-### 3. Profile Page UI  🍧 
+### 5. Profile Page UI  🍧 
 
 GIF  | Screenshot
 ------------- | -------------
-<img src="https://user-images.githubusercontent.com/48018942/82934546-4094bb80-9fa9-11ea-87e9-ed79af40d46e.gif" heigth="550" width="330"/> | <img src="https://user-images.githubusercontent.com/48018942/82934539-3d99cb00-9fa9-11ea-92b8-e52e3d2eab02.png" heigth="800" width="700"/>
+<img src="https://user-images.githubusercontent.com/48018942/82934546-4094bb80-9fa9-11ea-87e9-ed79af40d46e.gif" heigth="400" width="250"/> | <img src="https://user-images.githubusercontent.com/48018942/111359645-c78a6000-86b1-11eb-9178-398975080fe7.png" heigth="400" width="250"/>
 </br>
 
 **Packages in use:**
@@ -72,19 +102,8 @@ GIF  | Screenshot
 ([Custom Fonts](https://flutter.dev/docs/cookbook/design/fonts))
 ---
 
-### 4. Food Order app  🎂 
-GIF  | Screenshot
-------------- | -------------
-<img src="https://user-images.githubusercontent.com/48018942/83925032-c1229b80-a7a3-11ea-99bd-f2df6169d556.gif" heigth="550" width="330"/> | <img src="https://user-images.githubusercontent.com/48018942/83925036-c4b62280-a7a3-11ea-9139-1415ddc57c20.png" heigth="800" width="700"/>
-</br>
 
-**Packages in use:**
-
-1. [flutter_svg](https://pub.dev/packages/flutter_svg)
-2. [line_awesome_flutter](https://pub.dev/packages/line_awesome_flutter)
----
-
-### 5. Walkthrough Screen 🎂 
+### 6. Walkthrough Screen 🎂 
 
 This is a little special... Guess what?\
 *I implemented this in Kotlin!* 😱\
@@ -92,7 +111,7 @@ This is the walk-through screen, that you can adapt according to  your use, by c
 
 GIF  | Screenshot
 ------------- | -------------
-<img src="https://user-images.githubusercontent.com/48018942/89576856-77127080-d84d-11ea-913b-db576702c199.gif" heigth="550" width="330"/> | <img src="https://user-images.githubusercontent.com/48018942/89576865-7aa5f780-d84d-11ea-8d3b-c9f238c372a7.png" heigth="800" width="700"/>
+<img src="https://user-images.githubusercontent.com/48018942/89576856-77127080-d84d-11ea-913b-db576702c199.gif" heigth="400" width="250"/> | <img src="https://user-images.githubusercontent.com/48018942/111359650-c9542380-86b1-11eb-88d6-fc0137959757.png" heigth="400" width="250"/>
 
 **Resources:**
 
