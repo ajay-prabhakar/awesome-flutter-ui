@@ -1,4 +1,3 @@
-import 'file:///C:/Users/Ajayprabhakarrao/FlutterProjects/flutter-ui/awesome_login_page/lib/utils/constant.dart';
 import 'package:awesome_login_page/widgets/LoginCard.dart';
 import 'package:awesome_login_page/widgets/SocialIcons.dart';
 import 'package:awesome_login_page/widgets/my_header.dart';
@@ -6,6 +5,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 
 import 'utils/CustomIcons.dart';
+import 'utils/constant.dart';
 
 class loginScreen extends StatefulWidget {
   @override

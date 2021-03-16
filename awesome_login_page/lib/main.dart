@@ -1,6 +1,8 @@
-import 'file:///C:/Users/Ajayprabhakarrao/FlutterProjects/flutter-ui/awesome_login_page/lib/utils/constant.dart';
+
 import 'package:awesome_login_page/login_screen.dart';
 import 'package:flutter/material.dart';
+
+import 'utils/constant.dart';
 
 void main() => runApp(MyApp());
 

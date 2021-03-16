@@ -1,0 +1,48 @@
+name: movie_streaming_app
+description: A new Flutter application.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  simple_animations: ^2.2.1
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/icons/
+    - assets/images/
+    - assets/images/episodes/
+
+  fonts:
+    - family: CustomIcons
+      fonts:
+        - asset: assets/fonts/CustomIcons.ttf
+
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins/Poppins-Regular.ttf
+        - asset: assets/fonts/Poppins/Poppins-Medium.ttf
+          weight: 600
+        - asset: assets/fonts/Poppins/Poppins-Bold.ttf
+          weight: 700
+    - family: Poppins-Bold
+      fonts:
+        - asset: assets/fonts/Poppins/Poppins-Bold.ttf
+          weight: 700
+
+    - family: Poppins-Medium
+      fonts:
+        - asset: assets/fonts/Poppins/Poppins-Medium.ttf
+          weight: 600

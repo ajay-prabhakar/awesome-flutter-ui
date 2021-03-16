@@ -1,7 +1,7 @@
-import 'file:///C:/Users/Ajayprabhakarrao/FlutterProjects/flutter-ui/awesome_login_page/lib/utils/constant.dart';
-import 'package:awesome_login_page/login_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
+
+import '../utils/constant.dart';
 
 class MyHeader extends StatefulWidget {
   final String image;
@@ -80,8 +80,7 @@ class MyClipper extends CustomClipper<Path> {
   Path getClip(Size size) {
     var path = Path();
     path.lineTo(0, size.height - 80);
-    path.quadraticBezierTo(
-        size.width / 2, size.height, size.width, size.height - 80);
+    path.quadraticBezierTo(size.width / 2, size.height, size.width, size.height - 80);
     path.lineTo(size.width, 0);
     path.close();
     return path;
