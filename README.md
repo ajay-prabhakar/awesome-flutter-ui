@@ -3,7 +3,7 @@
 
 Flutter UI/UX Examples  🍟 
 ==================
-[![Repo](https://img.shields.io/badge/-Awesome-181717?style=flat-square&logo=github)](https://github.com/Chromicle/awesome-flutter-ui) [![Flutter](https://img.shields.io/badge/-Flutter-46d1fd?style=flat-square&logo=flutter)](https://flutter.dev/) [![HitCount](http://hits.dwyl.com/chromicle/awesome-flutter-ui.svg)](http://hits.dwyl.com/chromicle/awesome-flutter-ui)
+[![Repo](https://img.shields.io/badge/-Awesome-181717?style=flat-square&logo=github)](https://github.com/Chromicle/awesome-flutter-ui) [![Flutter](https://img.shields.io/badge/-Flutter-46d1fd?style=flat-square&logo=flutter)](https://flutter.dev/) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChromicle%2Fawesome-flutter-ui&count_bg=%231182C2&title_bg=%23585858&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 
