@@ -1,15 +1,17 @@
-<img src="https://user-images.githubusercontent.com/48018942/111353594-75464080-86ab-11eb-9379-ab07031c1e54.png" height="200" width="450" />
+<img src="https://user-images.githubusercontent.com/48018942/111353594-75464080-86ab-11eb-9379-ab07031c1e54.png" height="250" width="450" />
 
 
 Flutter UI/UX Examples  🍟 
 ==================
-[![Repo](https://img.shields.io/badge/-Awesome-181717?style=flat-square&logo=github)](https://github.com/Chromicle/awesome-flutter-ui) [![Flutter](https://img.shields.io/badge/-Flutter-46d1fd?style=flat-square&logo=flutter)](https://flutter.dev/)
+[![Repo](https://img.shields.io/badge/-Awesome-181717?style=flat-square&logo=github)](https://github.com/Chromicle/awesome-flutter-ui) [![Flutter](https://img.shields.io/badge/-Flutter-46d1fd?style=flat-square&logo=flutter)](https://flutter.dev/) [![HitCount](http://hits.dwyl.com/chromicle/awesome-flutter-ui.svg)](http://hits.dwyl.com/chromicle/awesome-flutter-ui)
+
+
 
 Looking for an awesome UI kit for Flutter? 
 Here is a curated list of a few awesome Flutter UI design templates to integrate in your Flutter app and save your time on designing widgets. You can check more UI design templates here.
 
 
-**Show some ❤️ and star the repo to support the project**
+**Show some ❤️ and star ⭐ the repo to support the project**
 
 ## Index 📝 
 
@@ -180,24 +182,6 @@ CustomButton(
 
 
 </br>
-
-## Designs 🌸
-These are the list of designs made by adobe xd and figma etc
-
-### Index 📝 
-
- 1. [Camera UI](https://github.com/Chromicle/awesome-flutter-ui/blob/master/designs/camera%20UI.xd)
- 2. [Notes UI](https://github.com/Chromicle/awesome-flutter-ui/blob/master/designs/notes.xd)
- 3. [Doremon](https://github.com/Chromicle/awesome-flutter-ui/blob/master/designs/doremon.xd)
-
- 
-
-### Camera UI 📷
-![Camera UI](https://user-images.githubusercontent.com/48018942/98547824-bf16b880-22be-11eb-8f64-3726013243ea.jpg)
-
-
-### Notes UI 📝
-<img src="https://user-images.githubusercontent.com/48018942/99701836-ff461a00-2aba-11eb-8e87-fb55f51bd590.png" width="700" height="500"/>
 
 
 ### Doremon 🐱
